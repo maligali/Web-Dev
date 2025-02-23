@@ -1,0 +1,9 @@
+.product-list {
+    display: grid;
+    grid-template-columns: repeat(5, 250px);
+    gap: 20px;
+    justify-content: center;
+    align-items: stretch;
+}
+
+
